@@ -8,9 +8,9 @@ from 1994, 1997, and 1999-present.  These are all the hunts for which
 the puzzles bear some resemblance to recent puzzles, and all of the
 answers are available.
 
-The files mystery??.txt contain a list of puzzle answers from the
+The files `mystery????.txt` contain a list of puzzle answers from the
 corresponding year, as well as the type of puzzle.  Usually the type
-is `Puzzle` or `Meta`, although there are some exceptions as described
+is "Puzzle" or "Meta", although there are some exceptions as described
 below.
 Notes on puzzles from individual hunts:
 * 2003 - In one round, the puzzle answers were physical objects.  These
@@ -22,6 +22,7 @@ answers are not included, but the metapuzzle is included.
 * 2006 - The ante puzzles are classified as "Ante".
 * 2012 - Some cluephrases (which were not puzzle answers) are included;
 these are classified as "Clue".
+* 2014 - The mid-hunt runaround puzzles are classified as "Runaround".
 
 The file `metapuzzles.yml` contains a list of metapuzzles from
 2000-present and the answers that feed them.  The `tag` field refers
@@ -37,7 +38,8 @@ http://devjoe.appspot.com/hunt95/ and
 http://devjoe.appspot.com/hunt96/, and one answer
 from 1998 can be found at http://web.mit.edu/~puzzle/www/1998/.  I do
 not know of any source for answers from 1988-1993, and hunts from 1987
-and earlier do not bear much resemblance to recent ones.
+and earlier do not bear much resemblance to recent ones (the answers were
+often numbers, for example).
 
 Acknowledgments
 ===============
