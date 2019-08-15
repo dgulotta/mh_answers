@@ -34,12 +34,12 @@ answers were physical object; the corresponding metapuzzles are not
 included in `metapuzzles.yml`.
 
 Incomplete lists of answers from 1995-1996 can be found at
-http://devjoe.appspot.com/hunt95/ and
-http://devjoe.appspot.com/hunt96/, and one answer
-from 1998 can be found at http://web.mit.edu/~puzzle/www/1998/.  I do
-not know of any source for answers from 1988-1993, and hunts from 1987
-and earlier do not bear much resemblance to recent ones (the answers were
-often numbers, for example).
+http://devjoe.appspot.com/hunt95/ and http://devjoe.appspot.com/hunt96/, and
+one answer from 1998 can be found at http://web.mit.edu/~puzzle/www/1998/.  I
+found a copy of the course bulletin needed for 1995 #22, and the answer is
+ENGINEERING.  I do not know of any source for answers from 1988-1993, and hunts
+from 1987 and earlier do not bear much resemblance to recent ones (the answers
+were often numbers, for example).
 
 Acknowledgments
 ===============
