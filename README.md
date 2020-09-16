@@ -18,11 +18,12 @@ answers are not included, but the metapuzzle answer is included.
 Answers to training puzzles are classified as "Training".  Both
 untrained and trained answers are included and classified as "Puzzle".
 * 2005 - In one round, the puzzle answers were physical objects.  These
-answers are not included, but the metapuzzle is included.
+answers are not included, but the metapuzzle answer is included.
 * 2006 - The ante puzzles are classified as "Ante".
 * 2012 - Some cluephrases (which were not puzzle answers) are included;
 these are classified as "Clue".
 * 2014 - The mid-hunt runaround puzzles are classified as "Runaround".
+* 2020 - The tiger answers are not included in `mystery2020.txt` since they could not be called in; however, they are included in `metapuzzles.yml`.
 
 The file `metapuzzles.yml` contains a list of metapuzzles from
 2000-present and the answers that feed them.  The `tag` field refers
@@ -32,6 +33,8 @@ http://devjoe.appspot.com/huntindex/puzzle/mit20001m.
 As mentioned above, in 2003 and 2005, there were rounds where the
 answers were physical object; the corresponding metapuzzles are not
 included in `metapuzzles.yml`.
+
+The order of the puzzle answers in `metapuzzles.yml` does not necessarily reflect how they were presented during the hunt; in fact they may be in an order that makes the metapuzzle easier to solve.
 
 Incomplete lists of answers from 1995-1996 can be found at
 http://devjoe.appspot.com/hunt95/ and http://devjoe.appspot.com/hunt96/, and

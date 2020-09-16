@@ -3387,7 +3387,7 @@
     - INTRACTABLE QUESTION
     - RECREATIONAL USE
     - TAX DOCUMENTS
-- title:  Blue Sun 6V4-178-B31 Trace Compression Block 
+- title:  Blue Sun 6V4-178-B31 Trace Compression Block
   tag: mit2018r4m3
   solution: REAL LIFE
   answers:
@@ -3492,7 +3492,7 @@
     - BIOFUEL TORCH
     - BACKUP PLAN
 - title: Christmas Town / Halloween Town
-  tag: mit2019
+  tag: mit2019zchha
   solution: THE MIT KRAMPUS
   answers:
     - DO NOT GO GENTLE INTO THAT GOOD NIGHT
@@ -3509,7 +3509,7 @@
     - SKELETON KEY
     - THE WOLFS HOUR
 - title: Halloween Town / Thanksgiving Town
-  tag: mit2019
+  tag: mit2019zhath
   solution: SUCKOTASH
   answers:
     - AMBIGUOUS
@@ -3522,7 +3522,7 @@
     - TURBOCHARGER
     - WARDROBE
 - title: Halloween Town / Valentine’s Day Town
-  tag: mit2019
+  tag: mit2019zhava
   solution: IM HIRSUTER
   answers:
     - HATAMOTO
@@ -3534,7 +3534,7 @@
     - MOCKTAIL
     - OMOPLATE
 - title: Thanksgiving Town / President’s Day Town
-  tag: mit2019
+  tag: mit2019zthpr
   solution: THEY USE GEORGE WASHINGTONS CARVER
   answers:
     - CHEVINGTON CHEESE
@@ -3548,7 +3548,7 @@
     - SHINZO ABE
     - SHOOTING STARS
 - title: Valentine’s Day Town / President’s Day Town
-  tag: mit2019
+  tag: mit2019zvapr
   solution: BASED ON DELECTABILITY
   answers:
     - COMMON LAW
@@ -3564,7 +3564,7 @@
     - NEW LOWS
     - SNOW LEOPARD
 - title: Thanksgiving Town / New Year’s Town
-  tag: mit2019
+  tag: mit2019zthny
   solution: FOURTH QUARTER GAINS
   answers:
     - AFTER SUNDOWN
@@ -3577,7 +3577,7 @@
     - SUGAR CANE ALLEY
     - THE PURPLE ROSE OF CAIRO
 - title: Valentine’s Day Town / Arbor Day Town
-  tag: mit2019
+  tag: mit2019zvaar
   solution: SINGLES BARKS
   answers:
     - ALBERT EINSTEIN
@@ -3593,7 +3593,7 @@
     - POLESTAR
     - SUPERJUICE
 - title: New Year’s Town / Holi Town
-  tag: mit2019
+  tag: mit2019znyho
   solution: CHROMATOSE
   answers:
     - CANARY ISLANDS
@@ -3607,7 +3607,7 @@
     - JAZZ HANDS
     - ZEPHYR TEACHOUT
 - title: Arbor Day Town / Pi Day Town
-  tag: mit2019
+  tag: mit2019zarpi
   solution: WOODYS ROUNDUP
   answers:
     - LUGIA
@@ -3621,7 +3621,7 @@
     - USS ATHERTON
     - ZOEY
 - title: Holi Town / Pi Day Town
-  tag: mit2019
+  tag: mit2019zhopi
   solution: INTERROBHANG
   answers:
     - AFRICA
@@ -3637,7 +3637,7 @@
     - NONAGENARIANS
     - SENIOR BOWL
 - title: New Year’s Town / Patriots’ Day Town
-  tag: mit2019
+  tag: mit2019znypa
   solution: DECAMP TO LEX
   answers:
     - GUT
@@ -3650,7 +3650,7 @@
     - MUSTACHES
     - WAY
 - title: Holi Town / Patriots’ Day Town
-  tag: mit2019
+  tag: mit2019zhopi
   solution: WALKY WOAD
   answers:
     - COTENANCY
@@ -3664,7 +3664,7 @@
     - MONONOKE
     - XENOPHOBIC
 - title: Arbor Day Town / Bloomsday Town
-  tag: mit2019
+  tag: mit2019zarbl
   solution: PSYCHO KILMER
   answers:
     - BOXERS
@@ -3680,7 +3680,7 @@
     - QUARTZ
     - SWOOSH
 - title: Pi Day Town / Bloomsday Town
-  tag: mit2019
+  tag: mit2019zpibl
   solution: CONSIDERS DUBLIN THE CUBE
   answers:
     - APOCRYPHA
@@ -3697,7 +3697,7 @@
     - UKULELE
     - 'YES'
 - title: April Fool's Day Town
-  tag: mit2019
+  tag: mit2019af
   solution: JEST IN THE TIME OF NICK
   answers:
     - DARK LANTERNS
@@ -3711,7 +3711,7 @@
     - SMASHING PUMPKINS
     - THE STINKING ROSE
 - title: Molasses Awareness Day Town
-  tag: mit2019
+  tag: mit2019mo
   solution: USE A MISSILE TOE
   answers:
     - FOURTH QUARTER GAINS
@@ -3728,7 +3728,7 @@
     - DECAMP TO LEX
     - INTERROBHANG
 - title: Groundhog Day / Flag Day / Martin Luther King Jr. Day / Talk Like a Pirate Day / Registration Day
-  tag: mit2019
+  tag: mit2019zzevents
   solution: USE RESALINATION PLANT
   answers:
     - RECURSIVE
@@ -3736,3 +3736,333 @@
     - IDEALISM
     - CAPTAIN HOOK
     - KILLIAN COURT
+- title: The Castle
+  tag: mit2020r07m
+  solution: OILMEN
+  answers:
+    - SIX WHEELER
+    - FIREBALL ROBERTS
+    - MISTER POTTER
+    - RACHEL CARSON
+    - CRISPIN LIPSCOMB
+    - UNCERTAIN GRAY
+- title: Storybook Pals
+  tag: mit2020r01m
+  solution: FURRY TAILS
+  answers:
+    - ALL FOR ONE
+    - ESOTERICA
+    - ORCHESTRA
+    - HALF SECTION
+    - ALEUROMANCY
+    - SOURCE FILES
+    - SORRY IM LATE
+    - NEW YEARS DAY
+- title: Spaceopolis
+  tag: mit2020r02m
+  solution: PRISM BRAKE
+  answers:
+    - TRACHEOSTOMY
+    - PRESENT DAY
+    - FINGERPAINTS
+    - PRONOUNCEMENT
+    - HEADKNOCKER
+    - LOWER THE VEIL
+    - MINIMAL CLOUD STORAGE
+    - SKIPPING TOWN
+    - GREENBACKS
+    - PARTNERS IN CRIME
+- title: Witches' Hut
+  tag: mit2020r03m
+  solution: NEWTRITIOUS GRUB
+  answers:
+    - ALABAMA
+    - AMENDMENTS
+    - BUREAU
+    - CHARACTER FLAW
+    - CORNUCOPIA
+    - GRACE UNDER FIRE
+    - HANGOVER REMEDY
+    - LAUGHINGSTOCK
+    - LEGAL BALANCE
+    - LOCALITY
+    - MONARCH
+    - RESCUE DEVICE
+    - ROUGH CALCULATION
+    - SKEINS
+    - THORNY ISSUE
+- title: Carousel
+  tag: mit2020r06m
+  solution: STIRRUP DRAMA
+  answers:
+    - PINK SLIP
+    - STONE WEIGHT
+    - GEORGE ELIOT
+    - CAROLE KING
+    - CRIMSON TIP
+    - SMURF TURF
+    - MAJESTIC PLURAL
+    - DAME COMMANDER
+    - BOLD STROKE
+    - SILVER PLATE
+    - WAR MUSEUM
+    - AMERICAN LEAGUER
+- title: Jukebox
+  tag: mit2020r05m
+  solution: OUTDATED STEREO TYPES
+  answers:
+    - SEARS
+    - PENTHOUSE
+    - GROOVY
+    - ENCYCLOPAEDIA BRITANNICA
+    - SLIDE RULE
+    - DRIVE IN MOVIE
+    - VACUUM TUBE
+    - DISCO
+    - THE TWIST
+    - CLASSIFIEDS
+    - BELL BOTTOMS
+    - CIGARETTES
+- title: Harvard Ballooniversity
+  tag: mit2020r04m
+  solution: EVICTION
+  answers:
+    - CRIB
+    - MOB
+    - TORCH
+    - VESSELS
+    - WEDDED
+    - DIRGES
+    - EQUINES
+    - CORTES
+- title: Director's Cut
+  tag: mit2020r08m
+  solution: SOME REEL GLEE AND A LOT OF SOUL
+  answers:
+    - "\u2764\uFE0F"
+    - "\U0001F4DA"
+    - "\U0001F40A"
+    - "\U0001F436"
+    - "\U0001F3DD\uFE0F"
+    - "\U0001F4E6"
+    - "\u2709\uFE0F"
+    - "\U0001F9DA"
+    - "\U0001F385"
+    - "\U0001F47B"
+    - "\U0001F460"
+    - "\U0001F3E0"
+    - "\U0001F32A\uFE0F"
+    - "\U0001F9D9\u200D\u2640\uFE0F"
+    - "\U0001F3F4\u200D\u2620\uFE0F"
+    - "\U0001F383"
+    - "\U0001F3D0"
+    - "\U0001F9B5"
+    - "\U0001F9DC\u200D\u2640\uFE0F"
+    - "\U0001F419"
+    - "\U0001F3EC"
+    - "\U0001F99A"
+    - "\U0001F55B"
+    - "\U0001F388"
+- title: Zeus
+  tag: mit2020
+  solution: ANGERS RETURNING
+  answers:
+    - ANGST
+    - BEERS
+    - BRETT
+    - BURNT
+    - BEING
+- title: Jack
+  tag: mit2020
+  solution: TRELLISES
+  answers:
+    - FEET
+    - FIRE
+    - FOLLIS
+    - FUMES
+- title: The Astrologer
+  tag: mit2020
+  solution: ANTIDISESTABLISHMENTARIANISM
+  answers:
+    - SEMINAR
+    - INHABIT
+    - DISTANT
+    - AIMLESS
+- title: The Captain
+  tag: mit2020
+  solution: FONZIE
+  answers:
+    - ESCAPE
+    - EXTRACTOR
+    - PROTECTOR
+    - SEIZE
+    - SHACKLE
+    - DIVER
+- title: Sam
+  tag: mit2020
+  solution: IM AMERICAN
+  answers:
+    - IAMB
+    - ACM
+    - DEER
+    - FIG
+    - CHAIN
+- title: Anne
+  tag: mit2020
+  solution: DRAGON THEIR FEET
+  answers:
+    - DRUMS
+    - ALL
+    - MASTER
+    - SINGER
+    - SONG
+    - WHITE
+    - QUEST
+    - DOLPHIN
+    - FIRST
+    - TIME
+    - DAWN
+    - SKIES
+    - LADY
+    - STORY
+    - FLIGHT
+- title: The Trainer
+  tag: mit2020
+  solution: BLACK AND BLUE
+  answers:
+    - BRAIN
+    - JED
+    - BOING
+    - PACES
+    - SEER
+    - MAISON
+    - REDDY
+    - RE
+    - CAPLETS
+    - RAFT
+    - LAKES
+    - BROW
+- title: The Cryptozoicologist
+  tag: mit2020
+  solution: RAIDERS
+  answers:
+    - DREADHAND
+    - DARKSTRIDER
+    - GRAVECALLER
+    - THE IMPURE
+    - ROFFE
+    - FLAMEWAKER
+    - WORTH
+- title: Mr. Patel
+  tag: mit2020
+  solution: EARN TRUST
+  answers:
+    - RENETT
+    - ART
+    - RTS
+    - TUT
+- title: The Cubs Scout
+  tag: mit2020
+  solution: I BET
+  answers:
+    - RUINS
+    - BASSISTS
+    - LOESSES
+    - TERRORS
+- title: Ms. Cunningham
+  tag: mit2020
+  solution: OUTLAST
+  answers:
+    - OMICRON
+    - ULINE
+    - TRACK UNIT
+    - LYIN
+    - ALI
+    - TAU
+    - SMILE
+- title: Safari Adventure
+  tag: mit2020
+  solution: FLEHMEN LIPS
+  answers:
+    - BURNT
+    - FEET
+    - DISTANT
+    - SEIZE
+    - CHAIN
+    - SKIES
+    - BRAIN
+    - DREADHAND
+    - ART
+    - TERRORS
+    - SMILE
+- title: Lazy River
+  tag: mit2020
+  solution: A TIPPY CANOE
+  answers:
+    - FAN LETTER
+    - SYMMETRICAL PAIR
+    - PLYMOUTH ROCK
+    - TELEGRAPH STATION
+    - HELICOPTER DROP
+    - LINE NUMBERS
+- title: Coast Guard
+  tag: mit2020
+  solution: THROWN FOR A POOL
+  answers:
+    - TELEGRAPH STATION
+    - STOMACH PUNCHES
+    - HELICOPTER DROP
+    - RAIN WATER
+    - LINE NUMBERS
+    - HOP OFF
+    - PLYMOUTH ROCK
+    - FAN LETTER
+    - STOLEN PESO
+    - SYMMETRICAL PAIR
+- title: The Swimming Hole
+  tag: mit2020
+  solution: ADOPT WET NEUTRALITY
+  answers:
+    - HOP OFF
+    - DNA TEST
+    - ANT HEAP
+    - STOLEN PESO
+    - HYPER JUMP
+    - RAIN WATER
+    - IPHONE BATTERY
+    - FAN LETTER
+    - STOMACH PUNCHES
+    - LINE NUMBERS
+    - PLYMOUTH ROCK
+    - UPMARKET VALUE
+    - TELEGRAPH STATION
+    - JAZZ ORCHESTRA
+    - HELICOPTER DROP
+    - SALARY INEQUALITY
+    - THERAPEUTIC BATH
+    - SYMMETRICAL PAIR
+- title: Cactus Ranch
+  tag: mit2020
+  solution: DOCK HOLIDAY PAY
+  answers:
+    - AX
+    - REBA
+    - SMOKE
+    - HEBDO
+    - KRONK
+    - M AND M
+    - SMOOT
+    - ZERO KM
+    - BADGES
+    - BAZOOKAS
+    - OOKOODOOK
+    - ROANOKES
+    - COMIC BOOK
+    - HOKEY POKEY
+    - JOSH COOKE
+    - UNIMBIBED
+    - JOE MCCARTHY
+    - HORSESHOE BAT
+    - HOMECOOKED MEAL
+    - MIGUEL BERROCAL
+    - ALICE B TOKLAS COOKBOOK
