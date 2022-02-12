@@ -33,7 +33,7 @@ to the identifier used by /dev/joe's puzzle index.  For example, a
 puzzle with the tag `mit20001m` is indexed at the page
 http://devjoe.appspot.com/huntindex/puzzle/mit20001m.
 As mentioned above, in 2003 and 2005, there were rounds where the
-answers were physical object; the corresponding metapuzzles are not
+answers were physical objects; the corresponding metapuzzles are not
 included in `metapuzzles.yml`.
 
 The order of the puzzle answers in `metapuzzles.yml` does not necessarily reflect how they were presented during the hunt; in fact they may be in an order that makes the metapuzzle easier to solve.
@@ -48,5 +48,9 @@ were often numbers, for example).
 
 Acknowledgments
 ===============
-Thanks to Alex Schwendner and Robyn Speer for compiling lists of
+Thanks to Alex Schwendner and Elia Robyn Lake for compiling lists of
 answers from 2004-2008 and 2011-2012, respectively.
+
+See also
+========
+https://puzzles.mit.edu/answers.tsv has answers from 1999-2016.
