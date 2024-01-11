@@ -41,9 +41,8 @@ included in `metapuzzles.yml`.
 
 The order of the puzzle answers in `metapuzzles.yml` does not necessarily reflect how they were presented during the hunt; in fact they may be in an order that makes the metapuzzle easier to solve.
 
-Incomplete lists of answers from 1995-1996 can be found at
-http://devjoe.appspot.com/hunt95/ and http://devjoe.appspot.com/hunt96/, and
-one answer from 1998 can be found at http://web.mit.edu/~puzzle/www/1998/.
+Incomplete lists of answers from 1995, 1996, and 1998 can be found at
+https://devjoe.appspot.com/hunt95/, https://devjoe.appspot.com/hunt96/, and https://devjoe.appspot.com/hunt98/.
 I do not know of any source for answers from 1988-1993, and hunts from 1987
 and earlier do not bear much resemblance to recent ones (the answers were often
 numbers, for example).
