@@ -13,6 +13,7 @@ corresponding year, as well as the type of puzzle.  Usually the type
 is "Puzzle" or "Meta", although there are some exceptions as described
 below.
 Notes on puzzles from individual hunts:
+* 1999 - One of the metapuzzles yielded a (presumably unintentional) misspelled answer.  The correct spelling is used here.
 * 2003 - In one round, the puzzle answers were physical objects.  These
 answers are not included, but the metapuzzle answer is included.
 Answers to training puzzles are classified as "Training".  Both
@@ -27,6 +28,7 @@ these are classified as "Clue".
 * 2020 - The tiger answers are not included in `mystery2020.txt` since they could not be called in; however, they are included in `metapuzzles.yml`.
 * 2021 - The answers from the 100000 procedurally generated puzzles in the Infinite Corridor round are not included.  The metapuzzle answer is included in `mystery2021.txt`.  Some answers in another round needed to be backsolved; these are classified as "Meta" in `mystery2021.txt` but appear as normal answers in `metapuzzles.yml`.  One answer was given away for free; it is classified as "Free".  Attack of the Lobsters is classifed as a regular puzzle despite being bolded on the hunt's puzzle list.
 * 2022 - Answers that could be called in on the Once Upon a Time in the Quest page are classified as "Quest".  Some puzzles had multiple answers that were supposed to be called in simultaneously, but these are listed as separate answers.  Fruit Around is classified as "Puzzle" rather than "Meta" since its minipuzzles do not have separate pages.
+* 2023 - Some answers consisted of multiple lines of text; lines are separated by a forward slash.  A few answers could be called in twice, but they are only listed once.
 
 The file `metapuzzles.yml` contains a list of metapuzzles from
 2000-present and the answers that feed them.  The `tag` field refers
@@ -41,11 +43,10 @@ The order of the puzzle answers in `metapuzzles.yml` does not necessarily reflec
 
 Incomplete lists of answers from 1995-1996 can be found at
 http://devjoe.appspot.com/hunt95/ and http://devjoe.appspot.com/hunt96/, and
-one answer from 1998 can be found at http://web.mit.edu/~puzzle/www/1998/.  I
-found a copy of the course bulletin needed for 1995 #22, and the answer is
-ENGINEERING.  I do not know of any source for answers from 1988-1993, and hunts
-from 1987 and earlier do not bear much resemblance to recent ones (the answers
-were often numbers, for example).
+one answer from 1998 can be found at http://web.mit.edu/~puzzle/www/1998/.
+I do not know of any source for answers from 1988-1993, and hunts from 1987
+and earlier do not bear much resemblance to recent ones (the answers were often
+numbers, for example).
 
 Acknowledgments
 ===============
