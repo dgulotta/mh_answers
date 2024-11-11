@@ -4,9 +4,7 @@ mh\_answers
 Answers from the MIT Mystery Hunt
 
 This repository contains a list of answers from the MIT Mystery Hunt
-from 1994, 1997, and 1999-present.  These are all the hunts for which
-the puzzles bear some resemblance to recent puzzles, and all of the
-answers are available.
+from 1994-present.  A few answers from 1998 are missing.
 
 The files `mystery????.txt` contain a list of puzzle answers from the
 corresponding year, as well as the type of puzzle.  Usually the type
@@ -40,12 +38,6 @@ answers were physical objects; the corresponding metapuzzles are not
 included in `metapuzzles.yml`.
 
 The order of the puzzle answers in `metapuzzles.yml` does not necessarily reflect how they were presented during the hunt; in fact they may be in an order that makes the metapuzzle easier to solve.
-
-Incomplete lists of answers from 1995, 1996, and 1998 can be found at
-https://devjoe.appspot.com/hunt95/, https://devjoe.appspot.com/hunt96/, and https://devjoe.appspot.com/hunt98/.
-I do not know of any source for answers from 1988-1993, and hunts from 1987
-and earlier do not bear much resemblance to recent ones (the answers were often
-numbers, for example).
 
 Acknowledgments
 ===============
