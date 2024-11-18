@@ -27,6 +27,7 @@ these are classified as "Clue".
 * 2021 - The answers from the 100000 procedurally generated puzzles in the Infinite Corridor round are not included.  The metapuzzle answer is included in `mystery2021.txt`.  Some answers in another round needed to be backsolved; these are classified as "Meta" in `mystery2021.txt` but appear as normal answers in `metapuzzles.yml`.  One answer was given away for free; it is classified as "Free".  Attack of the Lobsters is classifed as a regular puzzle despite being bolded on the hunt's puzzle list.
 * 2022 - Answers that could be called in on the Once Upon a Time in the Quest page are classified as "Quest".  Some puzzles had multiple answers that were supposed to be called in simultaneously, but these are listed as separate answers.  Fruit Around is classified as "Puzzle" rather than "Meta" since its minipuzzles do not have separate pages.
 * 2023 - Some answers consisted of multiple lines of text; lines are separated by a forward slash.  A few answers could be called in twice, but they are only listed once.
+* 2024 - The answers from the procedurally generated puzzles in the Hydra round are not included.
 
 The file `metapuzzles.yml` contains a list of metapuzzles from
 2000-present and the answers that feed them.  The `tag` field refers
